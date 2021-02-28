@@ -4,7 +4,6 @@ import com.alasdoo.developercourseassignment.dto.StudentDeveloperCourseDTO;
 import com.alasdoo.developercourseassignment.entity.StudentDeveloperCourse;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Component;
-
 import java.util.ArrayList;
 import java.util.List;
 
