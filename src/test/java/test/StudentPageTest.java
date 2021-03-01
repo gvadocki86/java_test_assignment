@@ -16,4 +16,12 @@ public class StudentPageTest extends FunctionalTest {
 
 	}	
 
+/*	@Test
+	public void checkIsTableFilled(){
+		driver.get("localhost:3000/student");
+		
+		StudentPage studentPage = new StudentPage(driver);
+
+		Assertions.assertEquals("No Rows",studentPage.confirmationAreThereRows());
+	}	*/
 }
